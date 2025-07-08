@@ -1,2 +1,2 @@
-# misosang
-myoung814
+# ex14
+for ex14
