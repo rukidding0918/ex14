@@ -1,0 +1,35 @@
+{
+    "servers": {
+        "Context7": {
+            "type": "stdio",
+            "command": "npx",
+            "args": [
+                "-y",
+                "@upstash/context7-mcp"
+            ]
+        },
+        "playwright": {
+            "command": "npx",
+            "args": [
+                "@playwright/mcp@latest"
+            ]
+        },
+        "sequential-thinking": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-sequential-thinking"
+            ]
+        },
+        "perplexity-mcp": {
+            "env": {
+                "PERPLEXITY_API_KEY": "${env:PERPLEXITY_API_KEY}",
+                "PERPLEXITY_MODEL": "sonar-pro"
+            },
+            "command": "uvx",
+            "args": [
+                "perplexity-mcp"
+            ]
+        }
+    }
+}

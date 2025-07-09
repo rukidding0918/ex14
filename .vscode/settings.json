@@ -1,0 +1,11 @@
+{
+    "chat.mcp.enabled": true,
+    "github.copilot.chat.codeGeneration.instructions": [
+        {
+            "file": ".copilot-codeGeneration-instructions.md"
+        },
+        {
+            "text": "Answer in Korean."
+        }
+    ]
+}
