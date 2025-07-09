@@ -1,14 +1,26 @@
 site_name: 경영세션 EX 14기
-site_url: https://rukidding0918.github.io/ex14/
+site_url: https://hani.one
 theme: 
   name: material
   custom_dir: overrides
+  features:
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - search.highlight
+    - search.share
 plugins:
   - search
   - tags
 nav:
   - Home: index.md
-  - articles:
+  - Articles:
     - 경영세션 참여 태도 기준서: articles/session01/경영세션_참여_태도_기준서_v2.0.md
     - 비전, 미션, 대표단계, 사업단계, 팀원 v1.0: articles/session01/비전_미션_대표단계_사업단계_팀원_v1.0.md
     - 대표의 한계를 결정하는 10가지 질문: articles/session01/대표의_한계를_결정하는_10가지_질문.md
@@ -24,7 +36,7 @@ nav:
     - 대표를 달라지게 하는 10가지 리프레이밍: articles/session01/대표를_달라지게_하는_10가지_리프레이밍.md
   - Tags:
     - All: tags.md
-    - Session 01: tags/session-01.md
+    - Session 01: tags/session_01.md
     - 참여하는 태도, 비전과 미션을 설정하기: tags/참여하는_태도,_비전과_미션을_설정하기.md
     - 한의원 사업 모델: tags/한의원_사업_모델.md
     - 지표 경영: tags/지표_경영.md
