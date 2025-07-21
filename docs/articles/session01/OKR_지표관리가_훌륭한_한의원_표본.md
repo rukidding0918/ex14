@@ -4,7 +4,7 @@ tags:
   - 지표 경영
 ---
 
-**원문 링크:** [https://medistream.co.kr/articles/36992](https://medistream.co.kr/articles/36992)
+**원문 링크:** [https://medistream.co.kr/articles/36992](https://medistream.co.kr/articles/36992){:target="_blank"}
 
 # OKR, 지표관리가 훌륭한 한의원 표본
 

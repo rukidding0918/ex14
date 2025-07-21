@@ -3,7 +3,7 @@ tags:
   - Session 01
   - 지표 경영
 ---
-**원문 링크:** [https://medistream.co.kr/articles/86083](https://medistream.co.kr/articles/86083)
+**원문 링크:** [https://medistream.co.kr/articles/86083](https://medistream.co.kr/articles/86083){:target="_blank"}
 
 # 팀 OKR 회고 하는법 v1.0
 

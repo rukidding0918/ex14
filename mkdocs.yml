@@ -1,7 +1,10 @@
 site_name: 경영세션 EX 14기
+site_description: 한의원 경영세션 EX 14기 아티클 모음집
+site_author: 김형규
 site_url: https://hani.one
 theme: 
   name: material
+  language: ko
   custom_dir: overrides
   features:
     - content.tabs.link
@@ -18,6 +21,7 @@ theme:
 plugins:
   - search
   - tags
+  - privacy
 nav:
   - Home: index.md
   - Articles:
@@ -41,5 +45,12 @@ nav:
     - 한의원 사업 모델: tags/한의원_사업_모델.md
     - 지표 경영: tags/지표_경영.md
     - 팀 조직력은 어떻게 만드는 걸까?: tags/팀_조직력은_어떻게_만드는_걸까.md
+  - Assignments:
+    - 비전 미션 가치: assignments/비전미션가치.md
+    - 6개월 OKR(2025-07-18): assignments/6개월_OKR(2025-07-18).md
+    - 1분 설명서: assignments/1분_설명서.md
+    - Forecast Graph(2025-07-18): assignments/Forecast_Graph(2025-07-18).md
+  - Book Reviews:
+    - 왜 일하는가: bookreviews/왜_일하는가.md
 markdown_extensions:
   - nl2br

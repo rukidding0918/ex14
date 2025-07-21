@@ -5,7 +5,7 @@ tags:
 orer: 7
 ---
 
-**원문 링크:** [https://medistream.co.kr/articles/36828](https://medistream.co.kr/articles/36828)
+**원문 링크:** [https://medistream.co.kr/articles/36828](https://medistream.co.kr/articles/36828){:target="_blank"}
 
 # OKR 만들기 가이드라인 v1.0
 
