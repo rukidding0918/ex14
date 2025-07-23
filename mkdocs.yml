@@ -49,11 +49,15 @@ nav:
     - 비전 미션 가치: assignments/비전미션가치.md
     - 6개월 OKR(2025-07-18): assignments/6개월_OKR(2025-07-18).md
     - 1분 설명서: assignments/1분_설명서.md
-    - Forecast Graph(2025-07-18): assignments/Forecast_Graph(2025-07-18).md
+    - Forecast Graph(2025-07-18): assignments/Forecast Graph(2025-07-18).md
   - Book Reviews:
     - 왜 일하는가: bookreviews/왜_일하는가.md
   - Tips:
     - 경영: tips/경영.md
     - 다이어트: tips/다이어트.md
+    - 도대체 뭐라고 하면 한약 드실건가요: tips/도대체-뭐라고-하면-한약-드실건가요.md
+    - 한의원을 위한 마케팅 브랜딩 실전 가이드: tips/한의원을_위한_마케팅_브랜딩_실전_가이드.md
+    - 다이어트 한약 효과 있는거 맞아요?: tips/다이어트-한약-효과-있는거-맞아요.md
+
 markdown_extensions:
   - nl2br
