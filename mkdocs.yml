@@ -52,5 +52,7 @@ nav:
     - Forecast Graph(2025-07-18): assignments/Forecast_Graph(2025-07-18).md
   - Book Reviews:
     - 왜 일하는가: bookreviews/왜_일하는가.md
+  - Tips:
+    - 다이어트: tips/다이어트.md
 markdown_extensions:
   - nl2br
