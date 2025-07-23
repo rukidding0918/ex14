@@ -53,6 +53,7 @@ nav:
   - Book Reviews:
     - 왜 일하는가: bookreviews/왜_일하는가.md
   - Tips:
+    - 경영: tips/경영.md
     - 다이어트: tips/다이어트.md
 markdown_extensions:
   - nl2br

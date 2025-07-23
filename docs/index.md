@@ -27,6 +27,15 @@ Session 1회차 강의자료 [바로보기](/downloads/session01.pdf){:target="_
 [사전정보 2](https://docs.google.com/spreadsheets/d/1cG9ZNFhjjg2Q1UuJ3xgvI4SXddhHa-0mofsDinZasdQ/edit?gid=1888151426#gid=1888151426){:target="_blank"}
 [1차 과제](https://docs.google.com/spreadsheets/d/1cG9ZNFhjjg2Q1UuJ3xgvI4SXddhHa-0mofsDinZasdQ/edit?gid=705378595#gid=705378595){:target="_blank"}
 
+## 일정
+- 1회차: 2025-07-06 (일) 16:00~20:00
+- 2회차: 2025-08-03 (일) 16:00~20:00
+- 3회차: 2025-09-07 (일) 16:00~20:00
+- 4회차: 2025-10-12 (일) 16:00~20:00 
+  *10월 공휴일 일정으로 둘째주 일요일에 진행됩니다.
+- 5회차: 2025-11-02 (일) 16:00~20:00
+- 6회차: 2025-12-07 (일) 16:00~20:00
+- 7회차: 2026-01-04 (일) 16:00~20:00
 
 ## 키도리 소개
 아이 키우는 원장님은 [https://i-kidori.com/](https://i-kidori.com/){:target="_blank"}에서 아이가 잘 크고 있는지 성장 백분위도 확인해보세요.
