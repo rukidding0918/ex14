@@ -5,6 +5,8 @@ site_url: https://hani.one
 theme: 
   name: material
   language: ko
+  font:
+    text: 'Noto Sans KR'
   custom_dir: overrides
   features:
     - content.tabs.link
@@ -46,6 +48,9 @@ nav:
     - 지표 경영: tags/지표_경영.md
     - 팀 조직력은 어떻게 만드는 걸까?: tags/팀_조직력은_어떻게_만드는_걸까.md
   - Assignments:
+    - 총명공진단: assignments/총명공진단.md
+    - 총명공진단 이벤트: assignments/총명공진단_이벤트.md
+    - 라인약침: assignments/라인약침.md
     - 비전 미션 가치: assignments/비전미션가치.md
     - 6개월 OKR(2025-07-18): assignments/6개월_OKR(2025-07-18).md
     - 1분 설명서: assignments/1분_설명서.md
@@ -53,12 +58,24 @@ nav:
   - Book Reviews:
     - 왜 일하는가: bookreviews/왜_일하는가.md
   - Tips:
-    - 총명공진단: tips/총명공진단.md
     - 경영: tips/경영.md
     - 다이어트: tips/다이어트.md
     - 도대체 뭐라고 하면 한약 드실건가요: tips/도대체-뭐라고-하면-한약-드실건가요.md
     - 한의원을 위한 마케팅 브랜딩 실전 가이드: tips/한의원을_위한_마케팅_브랜딩_실전_가이드.md
     - 다이어트 한약 효과 있는거 맞아요?: tips/다이어트-한약-효과-있는거-맞아요.md
+    - 랜딩페이지: tips/landing_page.md
 
 markdown_extensions:
   - nl2br
+  - admonition
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

@@ -6,7 +6,8 @@
 
 ## 지표관리 및 과제 링크
 [☆ 경영세션 Exclusive 14기 가이드](https://www.notion.so/medistreammembers/EXCLUSIVE-14-2092c3561c0d80d4b231e00cafe0eef9){:target="_blank"}
-[★ 경영세션 컨텐츠](https://docs.google.com/spreadsheets/d/16KPYoinwcmkNUkWcjrL5ieUDynu1qSZ3-xy_U7n_0HE/edit?gid=1997057029#gid=1997057029){:target="_blank"}
+[★ 경영세션 01 컨텐츠](https://docs.google.com/spreadsheets/d/16KPYoinwcmkNUkWcjrL5ieUDynu1qSZ3-xy_U7n_0HE/edit?gid=1997057029#gid=1997057029){:target="_blank"}
+[★ 경영세션 02 컨텐츠](https://www.notion.so/medistreammembers/2025-08-2-23b2c3561c0d803ca930c2124969abfa){:target="_blank"}
 [☆ 한의원 현황](https://www.notion.so/medistreammembers/EX-14-2092c3561c0d818b9db9fbb20a63526b?source=copy_link#2092c3561c0d8188bcbdf79e0926001c){:target="_blank"}
 [☆ 과제 수행 링크](https://www.notion.so/medistreammembers/EX-14-2092c3561c0d818b9db9fbb20a63526b?source=copy_link#2092c3561c0d811eb1cdc1c7c41a6c7e){:target="_blank"}
 [FAQ](https://docs.google.com/spreadsheets/d/1cQuw6oOltyo--SePCYDw5eTWiN3BRLvsByHOd96AfEs/edit?gid=1322984105#gid=1322984105){:target="_blank"}
