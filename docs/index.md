@@ -3,6 +3,12 @@
 ## 소개
 안녕?! 언제나 너를 응원할게!
 
+## 고쳐야 할 부분
+리뷰, 해피콜 문서 등 -> 브라우저 default창으로 고정하여 항상 확인하도록
+커뮤니케이션 -> 아침회의로 환자 리뷰할 것 -> 최근 3년 건보 최고매출. 하면 됩니다.
+앞으로 10분이상 일찍 출근할 것
+진료시간 줄이기(5분)
+추나시간 줄이기(5-10분)
 
 ## 지표관리 및 과제 링크
 [☆ 경영세션 Exclusive 14기 가이드](https://www.notion.so/medistreammembers/EXCLUSIVE-14-2092c3561c0d80d4b231e00cafe0eef9){:target="_blank"}
@@ -27,6 +33,7 @@ Session 1회차 강의자료 [바로보기](/downloads/session01.pdf){:target="_
 [사전정보 1](https://docs.google.com/spreadsheets/d/1tC5FmB8uXAlT0zVe_ktibzcJASROC2bk9-Kagq0A45I/edit?gid=2110278090#gid=2110278090){:target="_blank"}
 [사전정보 2](https://docs.google.com/spreadsheets/d/1cG9ZNFhjjg2Q1UuJ3xgvI4SXddhHa-0mofsDinZasdQ/edit?gid=1888151426#gid=1888151426){:target="_blank"}
 [1차 과제](https://docs.google.com/spreadsheets/d/1cG9ZNFhjjg2Q1UuJ3xgvI4SXddhHa-0mofsDinZasdQ/edit?gid=705378595#gid=705378595){:target="_blank"}
+[월간회고](https://www.notion.so/medistreammembers/20c2c3561c0d80428dd1d027a809a5c2){:target="_blank"}
 
 ## 일정
 - 1회차: 2025-07-06 (일) 16:00~20:00
