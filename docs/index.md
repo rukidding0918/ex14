@@ -19,6 +19,7 @@
 [FAQ](https://docs.google.com/spreadsheets/d/1cQuw6oOltyo--SePCYDw5eTWiN3BRLvsByHOd96AfEs/edit?gid=1322984105#gid=1322984105){:target="_blank"}
 
 Session 1회차 강의자료 [바로보기](/downloads/session01.pdf){:target="_blank"} | [다운로드](/downloads/session01.pdf){download="session01.pdf"}
+Session 2회차 강의자료 [바로보기](/downloads/session02.pdf){:target="_blank"} | [다운로드](/downloads/session02.pdf){download="session02.pdf"}
 
 ## 청구경희한의원 매일 기록할 문서
 [업무 가이드라인](https://docs.google.com/document/d/1lrPdlwNXugYYIBYLWssK9BEqNzRPa83xxy7hy42wfLw/edit?tab=t.5lvuptq9j2ge){:target="_blank"}
