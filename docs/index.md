@@ -18,8 +18,8 @@
 [☆ 과제 수행 링크](https://www.notion.so/medistreammembers/EX-14-2092c3561c0d818b9db9fbb20a63526b?source=copy_link#2092c3561c0d811eb1cdc1c7c41a6c7e){:target="_blank"}
 [FAQ](https://docs.google.com/spreadsheets/d/1cQuw6oOltyo--SePCYDw5eTWiN3BRLvsByHOd96AfEs/edit?gid=1322984105#gid=1322984105){:target="_blank"}
 
-Session 1회차 강의자료 [바로보기](/downloads/session01.pdf){:target="_blank"} | [다운로드](/downloads/session01.pdf){download="session01.pdf"}
-Session 2회차 강의자료 [바로보기](/downloads/session02.pdf){:target="_blank"} | [다운로드](/downloads/session02.pdf){download="session02.pdf"}
+Session 1회차 강의자료 [바로보기](./downloads/session01.pdf){:target="_blank"} | [다운로드](./downloads/session01.pdf){download="session01.pdf"}
+Session 2회차 강의자료 [바로보기](./downloads/session02.pdf){:target="_blank"} | [다운로드](./downloads/session02.pdf){download="session02.pdf"}
 
 ## 청구경희한의원 매일 기록할 문서
 [업무 가이드라인](https://docs.google.com/document/d/1lrPdlwNXugYYIBYLWssK9BEqNzRPa83xxy7hy42wfLw/edit?tab=t.5lvuptq9j2ge){:target="_blank"}
@@ -59,6 +59,9 @@ Session 2회차 강의자료 [바로보기](/downloads/session02.pdf){:target="_
 
 ## 수멤버스
 수멤버스 센터 [자료실](https://center.thesoo.co/docs/page/2246a3d8a3be808d8c97dd8d5f7ef451){:target="_blank"}
+
+## ACUREX
+아큐렉스 센터 [자료실](https://center.acurex.co.kr/page/1836a3d8a3be800ebb86edbb72486d38){:target="_blank"}
 
 ## 키도리 소개
 아이 키우는 원장님은 [https://i-kidori.com/](https://i-kidori.com/){:target="_blank"}에서 아이가 잘 크고 있는지 성장 백분위도 확인해보세요.

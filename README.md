@@ -1,7 +1,7 @@
 # medistream
 
 dev server
-`mkdocs serve`
+`mkdocs serve --dirty`
 
-github pages deploy
-`mkdocs gh-deploy --force`
+build
+`mkdocs build --dirty`

@@ -7,7 +7,7 @@ tags:
 **원문 링크:** [https://medistream.co.kr/articles/86085](https://medistream.co.kr/articles/86085){:target="_blank"}
 
 # Forecast Graph를 그리세요.
-![Forecast Graph](/images/o.webp)
+![Forecast Graph](../../images/o.webp)
 
 Forecast Graph 그려야 합니다.
 
