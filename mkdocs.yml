@@ -59,7 +59,9 @@ nav:
   - Book Reviews:
     - 왜 일하는가: bookreviews/왜_일하는가.md
   - Consult:
-    - 경영평가: consult/경영평가.md
+    - 할 일: consult/할일.md
+    - 경영평가 구두전달: consult/경영평가_구두전달.md
+    - 경영평가 보고서: consult/경영평가_보고서.md
     - 직원평가: consult/직원평가.md
   - Tips:
     - 사슬람:
@@ -74,16 +76,19 @@ nav:
     - 랜딩페이지: tips/landing_page.md
 
 markdown_extensions:
-  - nl2br
   - admonition
-  - pymdownx.tilde
-  - pymdownx.details
-  - pymdownx.superfences
   - attr_list
   - md_in_html
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
+  - nl2br
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.tilde
